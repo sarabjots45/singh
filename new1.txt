@@ -1,0 +1,3 @@
+git commit -a -m "Updated index.html. Resized image"
+[master e7de78f] Updated index.html. Resized image
+ 1 file changed, 1 insertion(+), 1 deletion(-)
